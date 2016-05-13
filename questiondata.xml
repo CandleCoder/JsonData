@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ques>
+    <que>
+        <htext>How much of your client population do you estimate smokes?</htext>
+        <qans>The estimated proportion of your client population that smokes is:##ANS##</qans>
+        <ctitle></ctitle>
+        <qgrps>
+            <qgrp>
+                <qtext></qtext>
+                <link></link>
+                <opts>
+                    <opt>
+                        <id>1</id>
+                        <text>None</text>
+                    </opt>
+                    <opt>
+                        <id>2</id>
+                        <text>1 – 25%</text>
+                    </opt>
+                    <opt>
+                        <id>3</id>
+                        <text>26 – 49%</text>
+                    </opt>
+                    <opt>
+                        <id>4</id>
+                        <text>50 – 74%</text>
+                    </opt>
+                    <opt>
+                        <id>5</id>
+                        <text>75 – 100%</text>
+                    </opt>
+                    <opt>
+                        <id>6</id>
+                        <text>Unknown</text>
+                    </opt>
+                </opts>
+                <other></other>
+                <id>1</id>
+            </qgrp>
+        </qgrps>
+        <id>1</id>
+        <type>fill</type>
+    </que>
+    <que>
+        <htext>Indicate the racial/ethnic minority populations you treat by percentage of your client population.</htext>
+        <qans>The estimated percentages of racial/ethnic minorities among your client population are:</qans>
+        <ctitle>Race/Ethnicity</ctitle>
+        <qgrps>
+            <qgrp>
+                <qtext>African American/Black (Non-Hispanic)</qtext>
+                <link>African American/Black</link>
+                <opts>
+                    <opt>
+                        <id>1</id>
+                        <text>None</text>
+                    </opt>
+                    <opt>
+                        <id>2</id>
+                        <text>1 – 25%</text>
+                    </opt>
+                    <opt>
+                        <id>3</id>
+                        <text>26 – 49%</text>
+                    </opt>
+                    <opt>
+                        <id>4</id>
+                        <text>50 – 74%</text>
+                    </opt>
+                    <opt>
+                        <id>5</id>
+                        <text>75 – 100%</text>
+                    </opt>
+                    <opt>
+                        <id>6</id>
+                        <text>Unknown</text>
+                    </opt>
+                </opts>
+                <other></other>
+                <id>1</id>
+            </qgrp>
+            <qgrp>
+                <qtext>American Indian/Alaska Native (Non- Hispanic)</qtext>
+                <link>American Indian/Alaska Native</link>
+                <opts>
+                    <opt>
+                        <id>1</id>
+                        <text>None</text>
+                    </opt>
+                    <opt>
+                        <id>2</id>
+                        <text>1 – 25%</text>
+                    </opt>
+                    <opt>
+                        <id>3</id>
+                        <text>26 – 49%</text>
+                    </opt>
+                    <opt>
+                        <id>4</id>
+                        <text>50 – 74%</text>
+                    </opt>
+                    <opt>
+                        <id>5</id>
+                        <text>75 – 100%</text>
+                    </opt>
+                    <opt>
+                        <id>6</id>
+                        <text>Unknown</text>
+                    </opt>
+                </opts>
+                <other></other>
+                <id>2</id>
+            </qgrp>
+            <qgrp>
+                <qtext>Asian American (Non-Hispanic)</qtext>
+                <link>Asian American</link>
+                <opts>
+                    <opt>
+                        <id>1</id>
+                        <text>None</text>
+                    </opt>
+                    <opt>
+                        <id>2</id>
+                        <text>1 – 25%</text>
+                    </opt>
+                    <opt>
+                        <id>3</id>
+                        <text>26 – 49%</text>
+                    </opt>
+                    <opt>
+                        <id>4</id>
+                        <text>50 – 74%</text>
+                    </opt>
+                    <opt>
+                        <id>5</id>
+                        <text>75 – 100%</text>
+                    </opt>
+                    <opt>
+                        <id>6</id>
+                        <text>Unknown</text>
+                    </opt>
+                </opts>
+                <other></other>
+                <id>3</id>
+            </qgrp>
+            <qgrp>
+                <qtext>Hispanic or Latino (of any race) </qtext>
+                <link>Hispanic or Latino</link>
+                <opts>
+                    <opt>
+                        <id>1</id>
+                        <text>None</text>
+                    </opt>
+                    <opt>
+                        <id>2</id>
+                        <text>1 – 25%</text>
+                    </opt>
+                    <opt>
+                        <id>3</id>
+                        <text>26 – 49%</text>
+                    </opt>
+                    <opt>
+                        <id>4</id>
+                        <text>50 – 74%</text>
+                    </opt>
+                    <opt>
+                        <id>5</id>
+                        <text>75 – 100%</text>
+                    </opt>
+                    <opt>
+                        <id>6</id>
+                        <text>Unknown</text>
+                    </opt>
+                </opts>
+                <other></other>
+                <id>4</id>
+            </qgrp>
+            <qgrp>
+                <qtext>Native Hawaiian and Other Pacific Islander (Non-Hispanic)</qtext>
+                <link>Native Hawaiian and Other Pacific Islander</link>
+                <opts>
+                    <opt>
+                        <id>1</id>
+                        <text>None</text>
+                    </opt>
+                    <opt>
+                        <id>2</id>
+                        <text>1 – 25%</text>
+                    </opt>
+                    <opt>
+                        <id>3</id>
+                        <text>26 – 49%</text>
+                    </opt>
+                    <opt>
+                        <id>4</id>
+                        <text>50 – 74%</text>
+                    </opt>
+                    <opt>
+                        <id>5</id>
+                        <text>75 – 100%</text>
+                    </opt>
+                    <opt>
+                        <id>6</id>
+                        <text>Unknown</text>
+                    </opt>
+                </opts>
+                <other></other>
+                <id>5</id>
+            </qgrp>
+        </qgrps>
+        <id>2</id>
+        <type>barchart</type>
+    </que>
+    <que>
+        <htext>Do you routinely ask clients about their tobacco use?</htext>
+        <opts>
+            <opt>
+                <qtext>YES</qtext>
+                <link></link>
+                <opts>
+                    <opt>
+                        <qtext>Excellent. You may be interested in these Training Resources</qtext>
+                        <link>Training Resources</link>
+                        <id>1</id>
+                    </opt>
+                </opts>
+                <value>yes</value>
+            </opt>
+            <opt>
+                <qtext>NO</qtext>
+                <link></link>
+                <opts>
+                    <opt>
+                        <qtext>Introduction</qtext>
+                        <link>Introduction</link>
+                        <id>1</id>
+                    </opt>
+                    <opt>
+                        <qtext>“5A’s” screening tool</qtext>
+                        <link>“5A’s” screening tool</link>
+                        <id>2</id>
+                    </opt>
+                    <opt>
+                        <qtext>“Tobacco Health Disparities” model</qtext>
+                        <link>“Tobacco Health Disparities” model</link>
+                        <id>3</id>
+                    </opt>
+                </opts>
+                <value>no</value>
+            </opt>
+        </opts>
+        <id>8</id>
+        <type>yesno</type>
+    </que>
+</ques>

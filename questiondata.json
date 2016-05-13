@@ -1,0 +1,1334 @@
+{
+    "ques": {
+        "que": [
+            {
+                "htext": "How much of your client population do you estimate smokes?",
+                "qans": "The estimated proportion of your client population that smokes is: ##ANS##",
+                "ctitle": "",
+				"visibility":true,
+                "qgrps": {
+                    "qgrp": {
+                        "qtext": "",
+                        "link": "",
+                        "opts": {
+                            "opt": [
+                                {
+                                    "id": "1",
+                                    "text": "None"
+                                },
+                                {
+                                    "id": "2",
+                                    "text": "1 – 25%"
+                                },
+                                {
+                                    "id": "3",
+                                    "text": "26 – 49%"
+                                },
+                                {
+                                    "id": "4",
+                                    "text": "50 – 74%"
+                                },
+                                {
+                                    "id": "5",
+                                    "text": "75 – 100%"
+                                },
+                                {
+                                    "id": "6",
+                                    "text": "Unknown"
+                                }
+                            ]
+                        },
+                        "other": "",
+                        "id": "1"
+                    }
+                },
+                "id": "1",
+                "type": "fill"
+            },
+            {
+                "htext": "Indicate the racial/ethnic minority populations you treat by percentage of your client population.",
+                "qans": "The estimated percentages of racial/ethnic minorities among your client population are:",
+                "ctitle": "My Clients: Race/Ethnicity",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": [
+                        {
+                            "qtext": "African American/Black (Non-Hispanic)",
+                            "link": "/profile/1",
+                            "visibility":true,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "1"
+                        },
+                        {
+                            "qtext": "American Indian/Alaska Native (Non- Hispanic)",
+                            "link": "/profile/2",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "2"
+                        },
+                        {
+                            "qtext": "Asian American (Non-Hispanic)",
+                            "link": "/profile/3",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "3"
+                        },
+                        {
+                            "qtext": "Hispanic or Latino (of any race) ",
+                            "link": "/profile/6",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "4"
+                        },
+                        {
+                            "qtext": "Native Hawaiian and Other Pacific Islander (Non-Hispanic)",
+                            "link": "/profile/8",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "5"
+                        }
+                    ]
+                },
+                "id": "2",
+                "type": "barchart"
+            },
+            {
+                "htext": "Indicate the populations with a health condition that you treat by percentage of your client population",
+                "qans": "The estimated percentages of clients with a health condition among your client population are:",
+                "ctitle": "My Clients: Health Conditions",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": [
+                        {
+                            "qtext": "HIV+/Person Living with HIV/AIDS (PLWHA)",
+                            "link": "/profile/10",
+                            "visibility":true,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "1"
+                        },
+                        {
+                            "qtext": "Clients with physical disabilities",
+                            "link": "/profile/5",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "2"
+                        },
+                        {
+                            "qtext": "Clients with intellectual/cognitive disabilities",
+                            "link": "/profile/5",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "3"
+                        },
+                        {
+                            "qtext": "Serious Mental Illness",
+                            "link": "/profile/12",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "4"
+                        },
+                        {
+                            "qtext": "Substance use disorder (alcohol, illicit drugs)",
+                            "link": "/profile/13",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "5"
+                        }
+                    ]
+                },
+				"id": "3",
+                "type": "barchart"
+            },
+            {
+                "htext": "Indicate the estimated percentages of your client population by gender and age",
+                "qans": "The estimated breakdown of your client population by gender and age is:",
+                "ctitle": "My Clients: Gender and Age",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": [
+                        {
+                            "qtext": "Girls (0- 18)",
+                            "link": "/profile/14",
+                            "visibility":true,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "1"
+                        },
+                        {
+                            "qtext": "Women (over 18)",
+                            "link": "/profile/14",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "2"
+                        },
+                        {
+                            "qtext": "Boys (0- 18)",
+                            "link": "/profile/4",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "3"
+                        },
+                        {
+                            "qtext": "Men (over 18)",
+                            "link": "/profile/4",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "4"
+                        }
+                    ]
+                },
+                "id": "4",
+                "type": "barchart"
+            },
+			{
+                "htext": "Indicate the estimated proportions of your client population by sexual orientation",
+                "qans": "The estimated breakdown of your client population by sexual orientation is:",
+                "ctitle": "My Clients: Sexual Orientation",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": [
+                        {
+                            "qtext": "Lesbian, Gay, Bisexual, or Transgender",
+                            "link": "/profile/7",
+                            "visibility":true,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "1"
+                        },
+                        {
+                            "qtext": "Non-LGBT",
+                            "link": "/profile/7",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "2"
+                        }
+                    ]
+                },
+                "id": "5",
+                "type": "barchart"
+            },
+			{
+                "htext": "Indicate the estimated proportions of your client population by age",
+                "qans": "The estimated breakdown of your client population by age is:",
+                "ctitle": "My Clients: Age",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": [
+                        {
+                            "qtext": "Children (0 -18)",
+                            "link": "/profile/4",
+                            "visibility":true,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "1"
+                        },
+                        {
+                            "qtext": "Adults (19-64)",
+                            "link": "/profile/9",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "2"
+                        },
+                        {
+                            "qtext": "Older adults (65+)",
+                            "link": "/profile/9",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "3"
+                        }
+                    ]
+                },
+                "id": "6",
+                "type": "barchart"
+            },
+			{
+                "htext": "Indicate the estimated proportions of your client population by location",
+                "qans": "The estimated breakdown of your client population by location is:",
+                "ctitle": "My Clients: Location",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": [
+                        {
+                            "qtext": "Client living in a rural location",
+                            "link": "/profile/11",
+                            "visibility":true,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "1"
+                        },
+                        {
+                            "qtext": "Client living in other locations",
+                            "link": "/profile/11",
+                            "visibility":false,
+                            "opts": {
+                                "opt": [
+                                    {
+                                        "id": "1",
+                                        "text": "None"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "text": "1 – 25%"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "text": "26 – 49%"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "text": "50 – 74%"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "text": "75 – 100%"
+                                    },
+                                    {
+                                        "id": "6",
+                                        "text": "Unknown"
+                                    }
+                                ]
+                            },
+                            "other": "",
+                            "id": "2"
+                        }
+                    ]
+                },
+                "id": "7",
+                "type": "barchart"
+            },
+            {
+                "htext": "Do you routinely ask clients about their tobacco use?",
+                "gans":"",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": {
+                        "qtext": "",
+                        "link": "",
+                        "opts": {
+                            "opt": [
+                                {
+                                    "qtext": "YES",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": {
+                                            "heading":"Excellent. You may be interested in these ",
+                                            "qtext": "Training Resources",
+                                            "link": "/toolbox/8",
+                                            "id": "1"
+                                        }
+                                    },
+                                    "value": "yes"
+                                },
+                                {
+                                    "qtext": "NO",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": [
+                                            {
+                                                "heading":"Find out why asking your clients about their tobacco use is crucial to safeguarding their health-",
+                                                "qtext": "Introduction",
+                                                "link": "/home",
+                                                "id": "1"
+                                            },
+                                            {
+                                                "qtext": "“5A’s” screening tool",
+                                                "link": "/toolbox/3",
+                                                "id": "2"
+                                            },
+                                            {
+                                                "qtext": "“Tobacco Health Disparities” model",
+                                                "link": "/toolbox/2",
+                                                "id": "3"
+                                            }
+                                        ]
+                                    },
+                                    "value": "no"
+                                }
+                            ]
+                        },
+                        "id":"1",
+                        "other":""
+                    }
+                },
+                "id": "8",
+                "type": "yesno"
+            },
+			{
+                "htext": "Is tobacco dependence something you feel competent to treat effectively?",
+                "gans":"",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": {
+                        "qtext": "",
+                        "link": "",
+                        "opts": {
+                            "opt": [
+                                {
+                                    "qtext": "YES",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": {
+                                            "heading":"Excellent. Stay abreast of ",
+                                            "qtext": "training opportunities",
+                                            "link": "/toolbox/8",
+                                            "id": "1"
+                                        }
+                                    },
+                                    "value": "yes"
+                                },
+                                {
+                                    "qtext": "NO",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": [
+                                            {
+                                                "heading": "Familiarize yourself with these brief screening tools and various resources to improve your competence-",
+                                                "qtext": "“5A’s” screening tool",
+                                                "link": "/toolbox/3",
+                                                "id": "1"
+                                            },
+                                            {
+                                                "qtext": "“5R’s” screening tool",
+                                                "link": "/toolbox/4",
+                                                "id": "2"
+                                            },
+                                            {
+                                                "qtext": "“SBIRT” screening tool",
+                                                "link": "/toolbox/5",
+                                                "id": "3"
+                                            },
+											{
+                                                "qtext": "“Clinician’s Toolbox”",
+                                                "link": "/toolbox",
+                                                "id": "4"
+                                            }
+                                        ]
+                                    },
+                                    "value": "no"
+                                }
+                            ]
+                        },
+                        "id":"1",
+                        "other":""
+                    }
+                },
+                "id": "9",
+                "type": "yesno"
+            },
+			{
+                "htext": "Have you received any training on tobacco cessation?",
+                "gans":"",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": [{
+                        "qtext": "",
+                        "link": "",
+                        "opts": {
+                            "opt": [
+                                {
+                                    "qtext": "YES",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": {
+                                            "heading": "Excellent. Stay abreast of ",
+                                            "qtext": "training opportunities",
+                                            "link": "/toolbox/8",
+                                            "id": "1"
+                                        }
+                                    },
+                                    "value": "yes"
+                                },
+                                {
+                                    "qtext": "NO",
+                                    "link": "",
+                                    "opts": {
+                                        
+                                    },
+                                    "value": "no"
+                                }
+                            ]
+                        },
+                        "id":"1",
+                        "other":""
+                    },
+					{
+                        "qtext": "If no, do you anticipate receiving any training?",
+                        "link": "",
+                        "visiblestatus":false,
+                        "opts": {
+                            "opt": [
+                                {
+                                    "qtext": "YES",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": {
+                                            "heading": "Excellent. Stay abreast of ",
+                                            "qtext": "training opportunities",
+                                            "link": "/toolbox/8",
+                                            "id": "1"
+                                        }
+                                    },
+                                    "value": "yes"
+                                },
+                                {
+                                    "qtext": "NO",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": [
+                                            {
+                                                "heading":"We highly recommend you familiarize yourself with these basic screening tools-",
+                                                "qtext": "“5A’s” screening tool",
+                                                "link": "/toolbox/3",
+                                                "id": "1"
+                                            },
+                                            {
+                                                "qtext": "“5R’s” screening tool",
+                                                "link": "/toolbox/4",
+                                                "id": "2"
+                                            },
+                                            {
+                                                "qtext": "“SBIRT” screening tool",
+                                                "link": "/toolbox/5",
+                                                "id": "3"
+                                            }
+                                        ]
+                                    },
+                                    "value": "no"
+                                }
+                            ]
+                        },
+                        "id":"2",
+                        "other":"yes"
+                    }
+                ]
+                },
+                "id": "10",
+                "type": "yesno"
+            },
+			{
+                "htext": "Are you currently providing tobacco cessation treatment to any of your clients?",
+                "gans":"",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": {
+                        "qtext": "",
+                        "link": "",
+                        "opts": {
+                            "opt": [
+                                {
+                                    "qtext": "YES",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": [
+												{
+                                                    "heading": "Good. Check out our ",
+													"qtext": "population profiles",
+													"link": "/profileWA",
+													"id": "1"
+												},
+												{
+                                                    "heading": "Find evidence-based treatments on ",
+													"qtext": "NREPP",
+													"link": "http://www.nrepp.samhsa.gov",
+													"id": "2"
+												},
+												{
+                                                    "heading": "Check out these ",
+													"qtext": "training resources",
+													"link": "/toolbox/8",
+													"id": "3"
+												}
+											]
+                                    },
+                                    "value": "yes"
+                                },
+                                {
+                                    "qtext": "NO",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": [
+                                            {
+                                                "heading" : "Familiarize yourself with these brief screening tools and various resources to improve your competence-",
+                                                "qtext": "“5A’s” screening tool",
+                                                "link": "/toolbox/3",
+                                                "id": "1"
+                                            },
+                                            {
+                                                "qtext": "“5R’s” screening tool",
+                                                "link": "/toolbox/4",
+                                                "id": "2"
+                                            },
+                                            {
+                                                "qtext": "“SBIRT” screening tool",
+                                                "link": "/toolbox/5",
+                                                "id": "3"
+                                            },
+                                            {
+                                                "heading": "Please indicate which tobacco dependence protocols you have used -",
+                                                "id": "4",
+                                                "qtext": "5A’s",
+                                                "link": "/toolbox/3"
+                                            },
+                                            {
+                                                "id": "5",
+                                                "qtext": "5R’s",
+                                                "link": "/toolbox/4"
+                                            },
+                                            {
+                                                "id": "6",
+                                                "qtext": "SBIRT",
+                                                "link": "/toolbox/5"
+                                            },
+                                            {
+                                                "id": "7",
+                                                "qtext": "Other evidence-based intervention",
+                                                "link": "http://www.nrepp.samhsa.gov"
+                                            }
+                                        ]
+                                    },
+                                    "value": "no"
+                                }
+                            ]
+                        },
+                        "id":"1",
+                        "other":""
+                    }
+                },
+                "id": "11",
+                "type": "yesno"
+            },
+			{
+                "htext": "Do you follow up with your clients on their tobacco use?",
+                "gans":"",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": {
+                        "qtext": "",
+                        "link": "",
+                        "opts": {
+                            "opt": [
+                                {
+                                    "qtext": "YES",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": {
+                                            "qtext": "Excellent. Keep monitoring your clients’ use of tobacco.",
+                                            "link": "",
+                                            "id": "1"
+                                        }
+                                    },
+                                    "value": "yes"
+                                },
+                                {
+                                    "qtext": "NO",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": [
+                                            {
+                                                "heading":"Monitoring your client’s progress can prevent relapse.-",
+                                                "qtext": "Should relapse have occurred, use the 5R’s protocol",
+                                                "link": "/toolbox/4",
+                                                "id": "1"
+                                            },
+                                            {
+                                                "qtext": "Discuss and reinforce what helps your client to remain abstinent from tobacco",
+                                                "link": "",
+                                                "id": "2"
+                                            }
+                                        ]
+                                    },
+                                    "value": "no"
+                                }
+                            ]
+                        },
+                        "id":"1",
+                        "other":""
+                    }
+                },
+                "id": "12",
+                "type": "yesno"
+            },
+			{
+                "htext": "Do you refer your clients for tobacco cessation treatment?",
+                "gans":"",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": {
+                        "qtext": "",
+                        "link": "",
+                        "opts": {
+                            "opt": [
+                                {
+                                    "qtext": "YES",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": {
+                                            "qtext": "Excellent.",
+                                            "link": "",
+                                            "id": "1"
+                                        }
+                                    },
+                                    "value": "yes"
+                                },
+                                {
+                                    "qtext": "NO",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": [
+											{
+                                                "heading":"Make sure to screen your clients.-",
+                                                "qtext": "Refer your clients to these quitlines",
+                                                "link": "/toolbox/6",
+                                                "id": "1"
+                                            },
+                                            {
+                                                "qtext": "Governmental and Non-Profit Agencies",
+                                                "link": "/toolbox/7",
+                                                "id": "1"
+                                            },
+                                            {
+                                                "qtext": "Refer your clients to other practitioners who treat tobacco dependence",
+                                                "link": "",
+                                                "id": "3"
+                                            }
+                                        ]
+                                    },
+                                    "value": "no"
+                                }
+                            ]
+                        },
+                        "id":"1",
+                        "other":""
+                    }
+                },
+                "id": "13",
+                "type": "yesno"
+            },
+			{
+                "htext": "Do you plan on integrating tobacco cessation as a treatment goal?",
+                "gans":"",
+				"visibility":false,
+                "qgrps": {
+                    "qgrp": {
+                        "qtext": "",
+                        "link": "",
+                        "opts": {
+                            "opt": [
+                                {
+                                    "qtext": "YES",
+                                    "link": "",
+                                    "opts": {
+                                        "opt": {
+                                            "heading":"Excellent. ",
+                                            "qtext": "Here are more tobacco cessation resources",
+                                            "link": "/toolbox/10",
+                                            "id": "1"
+                                        }
+                                    },
+                                    "value": "yes"
+                                },
+                                {
+                                    "qtext": "NO",
+                                    "link": "",
+                                    "opts": {
+                                        "opt" :[
+                                            {
+                                                "heading":"Is it because you need more reimbursement information? –",
+                                                "qtext": "You can find resources to assist with your reimbursement here",
+                                                "link": "/toolbox/9",
+                                                "id": "1"
+                                            },
+                                            {
+                                                "heading": "Is it due to lack of need among your clients? –",
+												"qtext" : "Learn about the impact of tobacco use on various health priority populations",
+                                                "link": "/home",
+                                                "id": "2"
+                                            },
+                                            {
+                                                "heading":"Is it too difficult to get started? – Get started with this basic screening tools.- ",
+                                                "qtext": "“5A’s” screening tool",
+                                                "link": "/toolbox/3",
+                                                "id": "3"
+                                            },
+											{
+                                                "qtext": "“5R’s” screening tool",
+                                                "link": "/toolbox/4",
+                                                "id": "4"
+                                            },
+											{
+                                                "qtext": "“SBIRT” screening tool",
+                                                "link": "/toolbox/5",
+                                                "id": "5"
+                                            }
+                                        ]
+                                    },
+                                    "value": "no"
+                                }
+                            ]
+                        },
+                        "id":"1",
+                        "other":""
+                    }
+                },
+                "id": "14",
+                "type": "yesno"
+            }
+        ]
+    }
+}

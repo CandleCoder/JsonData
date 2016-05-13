@@ -1,0 +1,74 @@
+[
+   {
+      "name":"",
+      "pid":"0",
+      "id":"1",
+      "type":"practice",
+      "text":""
+   },
+   {
+      "name":"Tobacco Health Disparities Model",
+      "pid":"0",
+      "id":"2",
+      "type":"tb_profile",
+       "text":"contents/toolbox/Tobacco_Health_Disparities_Model.html"
+   },
+   {
+      "name":"5A’s Model for Treating Tobacco Use and Dependence",
+      "pid":"0",
+      "id":"3",
+      "type":"profile",
+      "text":"contents/toolbox/5As.html"
+   },
+   {
+      "name":"5R’s Approach – For the Patient Unwilling to Quit",
+      "pid":"0",
+      "id":"4",
+      "type":"tb_profile",
+      "text":"contents/toolbox/5Rs.html"
+   },
+   {
+      "name":"Screening Brief Intervention and Referral to Treatment Model (SBIRT)",
+      "pid":"0",
+      "id":"5",
+      "type":"tb_profile",
+      "text":"contents/toolbox/SBIRT.html"
+   },
+   {
+      "name":"Telephone Quitlines",
+      "pid":"0",
+      "id":"6",
+      "type":"tb_profile",
+      "text":"contents/toolbox/Telephone_Quitlines.html"
+   }
+   ,
+   {
+      "name":"Governmental and Non-Profit Agencies",
+      "pid":"0",
+      "id":"7",
+      "type":"tb_profile",
+      "text":"contents/toolbox/Governmental_and_NonProfit_Agencies.html"
+   }
+   ,
+   {
+      "name":"Provider Training Resources",
+      "pid":"0",
+      "id":"8",
+      "type":"tb_profile",
+      "text":"contents/toolbox/Provider_Training_Resources.html"
+   },
+   {
+      "name":"Reimbursement Resources",
+      "pid":"0",
+      "id":"9",
+      "type":"tb_profile",
+      "text":"contents/toolbox/Reimbursement_Resources.html"
+   },
+   {
+      "name":"Resources by Health Priority Population",
+      "pid":"0",
+      "id":"10",
+      "type":"tb_profile",
+      "text":"contents/toolbox/Resources_by_Health_Priority_Population.html"
+   }
+]
